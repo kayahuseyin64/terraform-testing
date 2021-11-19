@@ -1,5 +1,5 @@
-resource "aws_s3_bucket" "bkaya2021huseyinkj87o6098hjtrsdloiuliyfvjmhgf" {
-  bucket = "my-tf-test-bucket"
+resource "aws_s3_bucket" "bkaya2021huseyinkj87o6098hjtrsdloi" {
+  bucket = "mybucketkaya2017huseyin"
   acl    = "private"
 
   tags = {
